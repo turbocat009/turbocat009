@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Turbocat 🐱
+## Your cat dev
 
 ### 💻 About Me
 I'm a 16-year-old developer who loves experimenting with code and building small, fun projects.  
@@ -16,11 +17,8 @@ Here are some of the languages and tools I’ve worked with:
 
 ### 🎵 Fun Fact
 Music keeps me inspired — there's always a playlist running while I’m coding.
+Also, in my free time, I like playing the piano
 
 ### 📫 Get in Touch
 Feel free to check out my repositories or reach out if you want to collaborate on something cool!
-
----
-
-> “Code is like music — both are art forms that let you express creativity through patterns.”
-
+I'm ready to listen your cool ideas
