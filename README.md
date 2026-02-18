@@ -2,13 +2,13 @@
 ## Your cat dev
 
 ### 💻 About Me
-I'm a 16-year-old developer who loves experimenting with code and building small, fun projects.  
+I'm a 17-year-old developer who loves experimenting with code and building small, fun projects.  
 I enjoy learning new technologies and using programming as a creative outlet — whether it's a web app, a simple game, or just something random I thought would be cool to make.
 
 ### 🧠 Tech Stack
 Here are some of the languages and tools I’ve worked with:
-- 🌐 **Frontend:** HTML, CSS, JavaScript  
-- ⚙️ **Backend / General:** Python, C++, Java, C  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, C++ with SDL  
+- ⚙️ **Backend / General:** Python, C++, Java, C, JavaScript  
 
 ### 🎯 What I Like To Do
 - Build small and random projects (sometimes useful, sometimes just for fun)
