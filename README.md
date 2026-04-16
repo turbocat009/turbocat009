@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Turbocat 🐱
+# 👋 Hello there! I'm Turbocat
 ## Your cat dev
 
 ### About Me
