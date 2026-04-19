@@ -1,5 +1,4 @@
-# 👋 Hello there! I'm Turbocat
-## Your cat dev
+# Hello there 👋! I'm Turbocat
 
 ### About Me
 I'm a 17-year-old developer who loves coding and building small and fun projects.  
